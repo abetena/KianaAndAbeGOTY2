@@ -9,6 +9,7 @@ TagManager:
   - Bullet
   - Ground
   - Pickup
+  - Powerup
   layers:
   - Default
   - TransparentFX
